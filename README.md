@@ -2,7 +2,7 @@
 
 ### Hi Bro. 👋
 
-- :orange_book: Focusing on Android & iOS & OpenHarmony
+- :orange_book: Focusing on Android & iOS
 
 <!--
 **Jcdroid/Jcdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
